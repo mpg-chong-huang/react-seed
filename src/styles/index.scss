@@ -1,0 +1,17 @@
+@import "~@/styles/modules/utils.scss";
+.navbar{
+  padding: 0;
+  &-brand{
+    margin-right: 0;
+  }
+  &-toggler{
+    padding: 0.2rem 0.6rem;
+    &-icon{
+      width: 1.2em;
+      height: 1.2em;
+    }
+  }
+}
+.row{
+  flex-grow: 1;
+}
