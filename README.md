@@ -1,3 +1,5 @@
+# React Webpack StartUp
+
 ## Folder Structure
 
 After creation, your project should look like this:
